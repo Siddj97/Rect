@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectAssg", "RectAssg\RectAssg.csproj", "{E3C60310-8F04-45C6-A555-4AFF763D2279}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRect", "TestRect\TestRect.csproj", "{E3BFDA07-A14B-410A-BAA9-3F3864A4FB1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E3C60310-8F04-45C6-A555-4AFF763D2279}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3C60310-8F04-45C6-A555-4AFF763D2279}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3C60310-8F04-45C6-A555-4AFF763D2279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BFDA07-A14B-410A-BAA9-3F3864A4FB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BFDA07-A14B-410A-BAA9-3F3864A4FB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BFDA07-A14B-410A-BAA9-3F3864A4FB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BFDA07-A14B-410A-BAA9-3F3864A4FB1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
